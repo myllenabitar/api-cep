@@ -1,5 +1,5 @@
 
-# 📦 API CEP
+# 📦 Cadastro Por Cep
 
 Um projeto simples e funcional que consome uma API pública de CEP para buscar informações de endereço. Ideal para quem deseja aprender mais sobre requisições HTTP e integração com APIs no front-end.
 
@@ -38,6 +38,7 @@ O **API CEP** permite ao usuário buscar informações de endereço a partir de 
 
    ```bash
    git clone https://github.com/myllenabitar/api-cep.git
+```
 2 - Acesse o diretório do projeto:
    ```bash
 cd api-cep
