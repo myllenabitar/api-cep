@@ -1,5 +1,5 @@
 
-# 📦 API CEP
+# 📦 Cadastro Por Cep
 
 Um projeto simples e funcional que consome uma API pública de CEP para buscar informações de endereço. Ideal para quem deseja aprender mais sobre requisições HTTP e integração com APIs no front-end.
 
