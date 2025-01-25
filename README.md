@@ -38,6 +38,7 @@ O **API CEP** permite ao usuário buscar informações de endereço a partir de 
 
    ```bash
    git clone https://github.com/myllenabitar/api-cep.git
+```
 2 - Acesse o diretório do projeto:
    ```bash
 cd api-cep
